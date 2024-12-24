@@ -13,11 +13,11 @@ A simple console-based quiz application with timed questions and score tracking.
 ## Getting Started
 
 ### Prerequisites
-- Java JDK 8 or higher
+- Java JDK 8 or higher (Recommend JDK 17)
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/java-quiz-game.git
+https://github.com/yourusername/java-quiz-game.git](https://github.com/pamaljayasinghe/Java-Quiz-Game.git
 cd java-quiz-game
 javac Main.java
 java Main
